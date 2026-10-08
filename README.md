@@ -1,16 +1,25 @@
-## Hi there 👋
+## Angela Campbell
+### Senior Data / BI Analyst
 
-<!--
-**AngelaC86/AngelaC86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data and BI professional with 5+ years of experience supporting analytics, reporting, data quality, ETL, and business decision-making across supply chain, HR, nonprofit, and enterprise environments.
 
-Here are some ideas to get you started:
+### Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SQL:** SQL Server, T-SQL, Snowflake
+- **BI:** Power BI, DAX, Power Query
+- **Data:** ETL, data quality, data modeling, analytics
+- **Programming:** R
+- **Automation:** Alteryx, Power Automate, Power Apps
+- **Business:** Supply Chain, Demand Planning, HR Analytics
+
+### Featured Projects
+
+📊 **Supply Chain Analytics Dashboard**  
+Power BI dashboard analyzing inventory, demand, forecast accuracy, and operational performance.
+
+📈 **Trading Analytics Dashboard**  
+SQL/Power Query + Power BI project analyzing trading performance, P&L, win rate, risk, and transaction costs.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/angela-campbell-470329364)
