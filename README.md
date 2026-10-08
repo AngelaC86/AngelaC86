@@ -22,4 +22,5 @@ SQL/Power Query + Power BI project analyzing trading performance, P&L, win rate,
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/angela-campbell-470329364)
+### [Email](angelacampbell0828@gmail.com) | [Phone](737.207.1680) | [LinkedIn](https://www.linkedin.com/in/angela-campbell-470329364)
+
